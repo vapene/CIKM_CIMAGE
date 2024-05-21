@@ -1,6 +1,6 @@
 # CIMAGE: Exploiting Conditional Independence in Masked Graph Auto-encoders
 
-This repository contains the implementation of the paper presented at **KDD 2024**: *"CIMAGE: Exploiting the Conditional Independence in Masked Graph Auto-encoders"*. 
+This repository contains the implementation of the paper presented at **CIKM 2024**: *"CIMAGE: Exploiting the Conditional Independence in Masked Graph Auto-encoders"*. 
 
 ## 📌 Dependencies
 Please refer to the [`environment.yaml`](./environment.yaml) file for the required library dependencies.
